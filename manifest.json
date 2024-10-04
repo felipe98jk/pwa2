@@ -1,0 +1,27 @@
+{
+  "name": "Mi PWA",
+  "short_name": "PWA",
+  "description": "Una PWA de ejemplo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/icono.jpg",
+      "sizes": "192x192",
+      "type": "/jpg"
+    },
+    {
+      "src": "/images/tenis1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    },
+    {
+        "src": "/images/tenis2.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+  ]
+}
+
